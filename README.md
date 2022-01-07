@@ -22,9 +22,9 @@ _A portfolio used as an independent project from Epicodus, includes links to pre
 * _open folder labeled "Portfolio"_
 * _website will open in browser_
 
-## Known Bugs
+<!-- ## Known Bugs
 
-* _GH-Pages link will not update, computer can't send new files to be added_
+* _GH-Pages link will not update, computer can't send new files to be added_ -->
 
 ## License
 
