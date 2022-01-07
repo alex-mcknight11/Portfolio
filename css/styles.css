@@ -23,10 +23,23 @@
 }
 
 .navigator{
+  border-style: outset;
   text-align: center;
-  border: 2px blue;
+  border: 2px, blue;
   margin: 10px;
   padding: 5px;
+}
+
+.container{
+  padding: 20px;
+}
+
+.photo{
+  border-style: solid;
+  border: 30px, black;
+  margin: 20px;
+  width: 100;
+  
 }
 
 .animation{
