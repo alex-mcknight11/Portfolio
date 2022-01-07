@@ -22,13 +22,13 @@ _A portfolio used as an independent project from Epicodus, includes links to pre
 * _open folder labeled "Portfolio"_
 * _website will open in browser_
 
-## Known Bugs
+<!-- ## Known Bugs
 
 * _Any known issues_
-* _should go here_
+* _should go here_ -->
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_MIT_
 
 Copyright (c) _1/7/2022_ _Alex McKnight_
