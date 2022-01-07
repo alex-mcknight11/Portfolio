@@ -35,12 +35,14 @@
 }
 
 .photo{
-  border-style: solid;
+  border-style: inset;
+  display: block;
   border: 30px, black;
-  margin: 20px;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   padding: auto;
-  width: 500;
+  width: 500px;
+  height: auto;
 }
 
 .animation{
