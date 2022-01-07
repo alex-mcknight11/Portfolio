@@ -3,6 +3,14 @@
   text-align: center;
 }
 
+.subheading{
+ text-align: center;
+}
+
 .projects{
   color: gray;
+}
+
+.highlight{
+  color: #007bff;
 }
