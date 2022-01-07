@@ -38,8 +38,9 @@
   border-style: solid;
   border: 30px, black;
   margin: 20px;
-  width: 100;
-  
+  text-align: center;
+  padding: auto;
+  width: 500;
 }
 
 .animation{
