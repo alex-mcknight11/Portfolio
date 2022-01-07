@@ -25,11 +25,12 @@
 .animation{
   animation-duration: 5s;
   animation-name: slidein;
+  margin-left: 40%;
 }
 
 @keyframes slidein {
   from {
-    margin-right: 500%;
+    margin-left: -25%;
     width: 0%
   }
 
