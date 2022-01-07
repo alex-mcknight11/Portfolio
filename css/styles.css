@@ -9,7 +9,7 @@
 }
 
 .projects{
-  color: gray;
+  color: black;
 }
 
 .highlight{
@@ -18,12 +18,19 @@
 }
 
 .history{
-  padding: 10%;
+  padding: 5%;
   font-size: 140%;
 }
 
+.navigator{
+  text-align: center;
+  border: 2px blue;
+  margin: 10px;
+  padding: 5px;
+}
+
 .animation{
-  animation-duration: 5s;
+  animation-duration: 7s;
   animation-name: slidein;
   margin-left: 40%;
 }
