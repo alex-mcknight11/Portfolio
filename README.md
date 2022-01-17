@@ -18,13 +18,13 @@ _A portfolio used as an independent project from Epicodus, includes links to pre
 
 * _Install Google Chrome browser_
 * _Download github file_
-* _https://github.com/alex-mcknight11/Portfolio_
+* _https://alex-mcknight11.github.io/Portfolio/_
 * _open folder labeled "Portfolio"_
 * _website will open in browser_
 
-<!-- ## Known Bugs
+## Known Bugs
 
-* _GH-Pages link will not update, computer can't send new files to be added_ -->
+* _No Known Bugs At This Time_
 
 ## License
 
